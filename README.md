@@ -6,5 +6,7 @@ Ppt link - https://docs.google.com/presentation/d/1nhfSTrKpk3uLzZd0g-PSEiwaKBXqc
   
   Atrioventricular Node - https://www.ncbi.nlm.nih.gov/books/NBK557664/
 
+## Covid 19 impact on Heart
+  https://www.youtube.com/watch?v=QAgSsHIPYYQ
 ## Cardiac Arrhythmias in COVID-19 Infection
   https://www.ahajournals.org/doi/10.1161/CIRCEP.120.008719
