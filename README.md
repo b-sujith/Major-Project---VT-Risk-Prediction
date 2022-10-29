@@ -7,10 +7,10 @@ Ppt link - https://docs.google.com/presentation/d/1nhfSTrKpk3uLzZd0g-PSEiwaKBXqc
   Atrioventricular Node - https://www.ncbi.nlm.nih.gov/books/NBK557664/
 
 ## VT Disease
-  https://www.mayoclinic.org/diseases-conditions/ventricular-tachycardia/symptoms-causes/syc-   20355138#:~:text=Ventricular%20tachycardia%20is%20a%20heart,times%20a%20minute%20at%20rest.
+  https://www.mayoclinic.org/diseases-conditions/ventricular-tachycardia/symptoms-causes/syc-20355138#:~:text=Ventricular%20tachycardia%20is%20a%20heart,times%20a%20minute%20at%20rest.
   https://onlinelibrary.wiley.com/doi/abs/10.1111/jce.14321
 ##  Heart Disease
-  https://www.cdc.gov/heartdisease/about.htm
+  https://www.cdc.gov/heartdisease/about.htm                                                      
   https://www.ahajournals.org/doi/10.1161/CIR.0000000000000950
 
 ## Covid 19 impact on Heart
